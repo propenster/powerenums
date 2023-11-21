@@ -1,0 +1,10 @@
+C:\Users\faith.olusegun\source\repos\PowerEnums\PowerEnums\bin\Debug\netstandard2.0\PowerEnums.deps.json
+C:\Users\faith.olusegun\source\repos\PowerEnums\PowerEnums\bin\Debug\netstandard2.0\PowerEnums.dll
+C:\Users\faith.olusegun\source\repos\PowerEnums\PowerEnums\bin\Debug\netstandard2.0\PowerEnums.pdb
+C:\Users\faith.olusegun\source\repos\PowerEnums\PowerEnums\obj\Debug\netstandard2.0\PowerEnums.csproj.AssemblyReference.cache
+C:\Users\faith.olusegun\source\repos\PowerEnums\PowerEnums\obj\Debug\netstandard2.0\PowerEnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faith.olusegun\source\repos\PowerEnums\PowerEnums\obj\Debug\netstandard2.0\PowerEnums.AssemblyInfoInputs.cache
+C:\Users\faith.olusegun\source\repos\PowerEnums\PowerEnums\obj\Debug\netstandard2.0\PowerEnums.AssemblyInfo.cs
+C:\Users\faith.olusegun\source\repos\PowerEnums\PowerEnums\obj\Debug\netstandard2.0\PowerEnums.csproj.CoreCompileInputs.cache
+C:\Users\faith.olusegun\source\repos\PowerEnums\PowerEnums\obj\Debug\netstandard2.0\PowerEnums.dll
+C:\Users\faith.olusegun\source\repos\PowerEnums\PowerEnums\obj\Debug\netstandard2.0\PowerEnums.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FIq8sHT+V5qZB3k2rqKepeisW9mr7wq9PcBh+ggPjIgW3DxReejdBhA90DP2ieXJJNTTaw9+UpdixGGiVxMZgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\faith.olusegun\\source\\repos\\PowerEnums\\PowerEnums\\PowerEnums.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faith.olusegun\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\faith.olusegun\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
