@@ -76,9 +76,9 @@ var option = new Some<double>(2.58);
 if(option.IsSome()){
 Console.WriteLine($"Option is Some and it's value is {option.ValueOrDefault()}");
 //OR destroy everything.
-var valueOrMakeAMess = option.ValueOrError("This double is supposed to be here now I'm going to have to throw an exception"); //without saying, this throws a bomb (an Exception)
+var valueOrMakeAMess = option.ValueOrError("This double is supposed to be here now I'm going to have to throw an exception"); //without saying, this throws a bomb (an Exception) if option is None<T>
 //OR pass an Exception callback with your own customer Exception
-var valueOrMakeAMess = option.ValueOrError(() => throw new YourMessyCustomException("You must never not have this double")); //without saying, this throws a bomb (a YourMessyCustomException)
+var valueOrMakeAMess = option.ValueOrError(() => throw new YourMessyCustomException("You must never not have this double")); //without saying, this throws a bomb (a YourMessyCustomException) if option is None<T>
 }else{
 Console.WriteLine("Option is None");
 }
